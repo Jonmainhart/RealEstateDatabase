@@ -11,5 +11,6 @@ Key concepts applied:
 * programming to an interface
 * abstraction
 * Genarics
+* Exception Handling
 
 Fun project to wrap up this class.
